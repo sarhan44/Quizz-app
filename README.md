@@ -31,13 +31,13 @@ To get started with the Quiz Web App, follow these steps:
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Alok-2002/Quiz_Web_App_Using_HTML_CSS_And_Javascript
+   git clone https://github.com/sarhan44/Quizz-app.git
    ```
 
 2. Open the project folder:
 
    ```
-   cd Quiz_Web_App_Using_HTML_CSS_And_Javascript
+   cd project
    ```
 
 3. Launch the app by opening the `index.html` file in your preferred web browser.
